@@ -1,0 +1,8 @@
+# Project exclude paths
+/itcast-haoke-manage-api-server/target/
+/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-ad/itcast-haoke-manage-dubbo-server-ad-interface/target/
+/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-ad/itcast-haoke-manage-dubbo-server-ad-service/target/
+/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-common/target/
+/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-generator/target/
+/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-interface/target/
+/itcast-haoke-manage-dubbo-server/itcast-haoke-manage-dubbo-server-house-resources/itcast-haoke-manage-dubbo-server-house-resources-dubbo-service/target/
